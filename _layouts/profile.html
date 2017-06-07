@@ -1,0 +1,37 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+	{% include head.html %}
+</head>
+
+<body id="post">
+
+{% include browser-upgrade.html %}
+{% include header.html %}
+
+<div id="main" role="main" style="margin: auto; padding:0">
+	<article class="hentry"  style="margin: auto; padding:0">
+	<div class="entry-content" >
+		<div class="menuaa">
+		<figure>
+        {% if page.avatar %}
+        <a href="{{ site.baseurl }}{{ profile.url }}"><img width="200" class="author-img" src="{{site.baseurl}}/images/people/{{page.avatar}}"></a>
+        {% else %}
+        <a href="{{ site.baseurl }}{{ profile.url }}"><img width="200" src="{{site.baseurl}}/images/avatar.jpg"></img></a>
+        {% endif %}
+        <figurecaption><a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ page.title }}</a></figurecaption>
+		</figure>
+		</div>	
+		{{content}}
+	</div>
+	</article>
+</div>
+
+{% include footer.html %}
+{% include scripts.html %}
+
+</body>
+</html>
