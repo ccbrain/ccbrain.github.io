@@ -22,7 +22,7 @@ permalink: /people/
         {% endif %}
         <figurecaption><a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.title }}</a>
 		{% if item == 'postdoc' %}
-		Postdoctoral Fellows
+		Postdoctoral Fellow
 		{% elsif item == 'pi' %}
 		Principal Investigator
 		{% elsif item == 'phd' %}
