@@ -2,6 +2,7 @@
 published: true
 title: Beth and her new project
 categories: science
+description: "We welcome Beth Routley to join us as a postdoctroal fellow"
 ---
 
 This month we welcome [Beth Routley](/people/bethany_routley/index.html) to join us as a postdoctroal fellow. After her successful PhD, Beth has done an amazing job as the Public Outreach Officer at CUBRIC, promoting [Brain Games](https://sites.cardiff.ac.uk/cubric/public-outreach/brain-games){:target="_blank"} and other [engagement events](https://www.youtube.com/watch?v=ZRlEaqaMIpM){:target="_blank"}. Now the opportunity comes to have her inputs on an exciting project.
