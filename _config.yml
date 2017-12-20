@@ -20,12 +20,24 @@ url: "https://ccbrain.org"
 menu: 
   - title:  'People'
     url:    '/people'
+    submenu:
+        - title: 'Current member'
+          url: '/people'
+        - title: 'Alumni'
+          url: '/people/alumni'
   - title:  'Research'
     url:    '/research'
   - title:  'Publications'
     url:    '/publications'
   - title:  'Join'
     url:    '/join'
+  - title:  'Stuff'
+    url:    '/updates'
+    submenu:
+        - title: 'Updates'
+          url: '/updates'
+        - title: 'Contact'
+          url: '/#contact'
   #- title: 'Stuff'
   #  url: '/categories'
   #  type: 'categories'        
@@ -89,7 +101,7 @@ sass:
 permalink:   /:categories/:title/
 
 # Amount of post to show on home page
-paginate: 5
+#paginate: 5
 
 # if true, shows the floatting share buttons
 float_share: true
@@ -104,14 +116,16 @@ titlecase: true
 
 include: [".htaccess"]
 exclude: ["demo/*", "lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
-#gems:    [jekyll-paginate]
+# gems:    [jekyll-paginate]
 # theme: neo-hpstr-jekyll-theme
 
 #gems:
 #  - jekyll-sitemap
 
 #repository: henry/henrydf.github.io
-  
+paginate: 5
+paginate_path: "/updates/page:num/"
+
 colors:  #in hex code if not noted else
   primary: "#00b3fe" #"#F70031"
   primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
@@ -179,3 +193,4 @@ prose:
             
 gems:
   - jekyll-sitemap
+  - jekyll-paginate

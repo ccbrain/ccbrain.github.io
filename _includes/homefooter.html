@@ -1,4 +1,5 @@
 <div class="footerwrap1">
+	<a name="contact"></a> 
         <div class="row">
 			<div class="col-lg-2"></div>
             <div class="col-lg-4" style="padding-right:30px">
@@ -8,7 +9,7 @@
             </div>
 			
             <div class="col-lg-4" style="padding-left:30px">
-                <h3>Recent news</h3>
+                <h3><a href='/updates'>Recent news</a></h3>
                 <div class="hline-g"></div>
 					{% for post in site.posts limit:5 %}
 					<p><a href="{{ post.url | prepend: site.baseurl }}"><i class="fa fa-arrow-right" aria-hidden="true"></i>{{ post.title }}</a></p>
@@ -19,8 +20,8 @@
 				
 				<p><i class="fa fa-user" aria-hidden="true"></i></i>Dr Jiaxiang Zhang</p>
 				<p><a href="mailto:zhangj73@cardiff.ac.uk"><i class="fa fa-envelope" aria-hidden="true"></i>zhangj73@cardiff.ac.uk</a></p>
-				<p><i class="fa fa-phone" aria-hidden="true"></i>+44(0)29 2087 0471</p>
-				<p><i class="fa fa-map-marker" aria-hidden="true"></i>CUBRIC, Cardiff, UK</p>
+				<p><i class="fa fa-phone" aria-hidden="true"></i>+44 (0)29 2087 0471</p>
+				<p><i class="fa fa-map-marker" aria-hidden="true"></i><a href='http://sites.cardiff.ac.uk/cubric/'>CUBRIC, Cardiff, CF24 4HQ, UK</a></p>
             </div>
         </div>
 </div>

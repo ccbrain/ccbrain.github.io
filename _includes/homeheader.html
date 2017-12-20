@@ -28,7 +28,7 @@
             </ul>
           </li>
         {% elsif menu.submenu %}
-          <li class="header-item {{class}}"><a href="{{site.url}}{{menu.url}}"><h4>{{ menu.title }}</h4></a>
+          <li class="header-item {{class}}"><a href="{{site.url}}{{menu.url}}">{{ menu.title }}</a>
             <ul class="header-submenu">
               {% for sub in menu.submenu %}
                 <li class="sub-item"><a href="{{site.url}}{{sub.url}}">{{sub.title}}</a></li>
