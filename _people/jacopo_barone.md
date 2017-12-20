@@ -1,7 +1,9 @@
 ---
 title: Jacopo Barone
-position: ra
+position: alumni
 avatar: barone.jpg
+oldposition: ra
+year: 2016-2017
 ---
 
 # Brief bio
