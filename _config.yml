@@ -5,7 +5,7 @@ description:      Cognition and Computational Brain Lab
 disqus_shortname: 
 reading_time:     false # if true, shows the estimated reading time for a post
 words_per_minute: 200
-logo:             images/logo_web.svg # logo visible in the topbar
+logo:             images/logo_web.png # logo visible in the topbar
 excerpt_separator: <!--more-->
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
