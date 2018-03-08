@@ -595,10 +595,10 @@ ul.social-buttons li a:active {
 }
 ///sections
 .logo{
-  width: $menu-height;
+ // width: $menu-height;
   height: $menu-height;
   float: left;
-  padding: 8px;
+  padding: 4px 8px 4px 1px;
 }
 .header-item-container{
 	height: 100%;
@@ -626,7 +626,7 @@ ul.social-buttons li a:active {
 	vertical-align: middle;
 	a.title, i{
 		height: 100%;
-		font-size: 1.8rem;
+		font-size: 1.7rem;
 	    padding-left: 0px;
 		padding-right: 30px;
 		coloar: $black;
@@ -650,13 +650,14 @@ ul.social-buttons li a:active {
 
 .header-item:hover .header-submenu{
 	display: block;
+	width:200px;
 	position: absolute;
 }
 
 .header-submenu {
 	display: none;
 	border-top: 2px solid $header-margin;
-	width: 150px;
+	width: 50px;
 	z-index: 100;
 	list-style-type: none;
 	transform: translateX(-25%);
