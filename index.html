@@ -15,10 +15,10 @@ layout: firsthome
 </header>
 
 <script type="text/javascript">
-        var images = new Array("bk1.jpg", "bk2.jpg", "c1.jpeg", "c2.jpeg");
+        var images = new Array("bk2.jpg", "c1.jpeg", "c2.jpeg");
 		var imgCount = images.length;
         var dir = 'images/';
-        var randomCount = Math.round(Math.random() * (imgCount - 1)) + 1;
+        var randomCount = Math.round(Math.random() * (imgCount - 1)) + 0;
 		document.getElementById("intro").style.backgroundImage = "url(" + dir + images[randomCount] + ")";
 </script>
 
