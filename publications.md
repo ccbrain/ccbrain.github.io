@@ -7,9 +7,9 @@ permalink: 		/publications/
 * Wolpe N, Zhang J, Nombela C, Ingram JN, Wolpert DM, Rowe JB (2017) Sensory attenuation is related to dopamine dose in Parkinson's disease. bioRxiv 1:221317. [doi.org/10.1101/221317](https://doi.org/10.1101/221317)
 
 # Journal articles
-* Phillips HN, Cope TE, Hughes LE, Zhang J, Rowe JB (2018) Monitoring the past and choosing the future: the prefrontal cortical influences on voluntary action. Scientific reports, 8(1):7247.
-* Zhang J, Nombela C, Wolpe N, Barker RA, Rowe JB (2016) Time on timing: Dissociating premature responding from interval sensitivity in Parkinson’s disease. Movement Disorders 31:1163–72.
-* Zhang J, Nombela C, Wolpe N, Barker RA, Rowe JB (2016) Time on timing: Dissociating premature responding from interval sensitivity in Parkinson’s disease. Movement Disorders 31:1163–72.
+* Dima D, Perry G, Messaritaki E, Zhang J, Singh K (in press). Spatiotemporal dynamics in human visual cortex rapidly encode the emotional content of faces. Human Brain Mapping.
+* Phillips HN, Cope TE, Hughes LE, Zhang J, Rowe JB (2018). Monitoring the past and choosing the future: the prefrontal cortical influences on voluntary action. Scientific reports, 8(1):7247.
+* Zhang J, Nombela C, Wolpe N, Barker RA, Rowe JB (2016). Time on timing: Dissociating premature responding from interval sensitivity in Parkinson’s disease. Movement Disorders 31:1163–72.
 * Zhang J, Rittman T, Nombela C, Fois A, Coyle-Gilchrist I, Barker RA, Rowe JB (2016) Different decision deficits impair response inhibition in Progressive Supranuclear Palsy and Parkinson’s disease. Brain 139:161-73. (F1000 recommended)
 * Song Y, Zhang J (2016). Discriminating preictal and interictal brain states in intracranial EEG by sample entropy and extreme learning machine. Journal of Neuroscience Methods 57, 45-54.
 * Zhang J, Rowe JB (2015). The neural signature of information regularity in temporally extended event sequences. Neuroimage 107:266-76.
