@@ -1,5 +1,5 @@
 ---
-title: ayşegül özkan
+title: Ayşegül Özkan
 position: phd
 avatar: ozkan.jpg
 ---
