@@ -1,7 +1,9 @@
 ---
 title: Bethany Routley
-position: postdoc
+position: alumni
+oldposition: postdoc
 avatar: routley.jpg
+year: 2017-2018
 ---
 
 # Brief bio
