@@ -1,8 +1,7 @@
 ---
 title: Sabina Baltruschat
-position: alumni
+position: visiting
 avatar: baltruschat.jpg
-oldposition: visiting
 year: 2017-2017
 ---
 
