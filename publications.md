@@ -4,6 +4,7 @@ title: 			"Publications"
 permalink: 		/publications/
 ---
 # Preprints
+* Karahan E, Costigan AG, Graham KS, Lawrence AD, Zhang J (2018). Cognitive and white-matter compartment models revealed the contribution of microstructural variability along sensorimotor tracts to simple reaction time. BioRxiv 473660. [doi.org/10.1101/473660](https://doi.org/10.1101/473660) [Code](https://github.com/esinkarahan/ATA)
 * Hodgetts CJ, Stefani M, Williams AN, Kolarik BS, Yonelinas AP, Ekstrom AD, Lawrence AD, Zhang J, Graham KS (2018). The role of the fornix in human navigational learning. BioRxiv 391888. [doi.org/10.1101/391888](https://doi.org/10.1101/391888)
 
 
