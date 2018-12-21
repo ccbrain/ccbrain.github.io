@@ -1,6 +1,7 @@
 ---
 title: Soumya Manjunath
-position: intern
+position: alumni
+oldposition: intern
 avatar: soumya.jpg
 ---
 
