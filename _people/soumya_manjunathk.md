@@ -3,6 +3,7 @@ title: Soumya Manjunath
 position: alumni
 oldposition: intern
 avatar: soumya.jpg
+year: 2017-2018
 ---
 
 # Brief bio
