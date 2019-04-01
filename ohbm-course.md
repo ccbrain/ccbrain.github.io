@@ -17,6 +17,8 @@ If you are a researcher working with a variety of neuroimaging methods, such as 
 
 We will be collecting questions during the course on [slido.com](https://www.sli.do/). If you have any question for the presenters, please use the code **#OHBM** on [slido.com](https://www.sli.do/).
 
+Course material will be available here soon.
+
 ## Talks
 
 
@@ -30,6 +32,7 @@ Wojciech Zajkowski</a>
 In recent years, the amount of neuroimaging data we collect has been growing in an exponential fashion. Due to this, the issue of developing methods that aid in drawing meaningful conclusions from large and rich (often multimodal) datasets has gained paramount importance. This talk will consist of three segments. I will start by providing an overview of the purpose of using cognitive models of behavior and how can they be utilized together with brain data, using models such as Drift-Diffusion Model or Linear Ballistic Accumulator as examples. I will then explain the nature of the linking problem. Using the Marr’s levels of analysis framework, I will go through the rationale behind why is it crucial for our understanding of brain and behavior. Finally, I will introduce different methods of dealing with the problem: from a simple correlation to recently developed frameworks, such as joint modelling, which utilize  the covariability of neural and behavioural data to draw meaningful conclusions. </p>
 </details>
 
+
 <details>
 <summary>
 <i>"Model-based cognitive neuroscience" </i> by
@@ -39,6 +42,7 @@ Birte Forstmann</a>
 <p>
 Cognitive neuroscientists study how the brain implements particular cognitive processes such as perception, learning, and decision-making. Traditional approaches in which experiments are designed to target a specific cognitive process have been supplemented by two recent innovations. First, formal cognitive models can decompose observed behavioral data into multiple latent cognitive processes, allowing brain measurements to be associated with a particular cognitive process more precisely and more confidently. Second, cognitive neuroscience can provide additional data to inform the development of formal cognitive models, providing greater constraint than behavioral data alone. We argue that these fields are mutually dependent; not only can models guide neuroscientific endeavors, but understanding neural mechanisms can provide key insights into formal models of cognition.  </p>
 </details>
+
 
 <details>
 <summary>
@@ -50,6 +54,7 @@ Jian Li</a>
 Reinforcement learning (RL) has witnessed its wide application in cognitive sciences in the past decades. In this session I will briefly introduce different RL models used in cognitive neuroscience/psychology research and how they can be integrated with fMRI techniques to better understand the computations that brain carries out during learning and inference. </p>
 </details>
 
+
 <details>
 <summary>
 <i>"Model-based assessment of brain-behavior relationships" </i> by
@@ -59,6 +64,7 @@ Jean Daunizeau</a>
 <p>
 Functional outcomes (e.g., subjective percepts, emotions, memory retrievals, decisions, etc...) are partly determined by external stimuli and/or cues. But they may also be strongly influenced by (trial-by-trial) uncontrolled variations in brain responses to incoming information. In turn, this variability may provide critical information regarding how behaviourally relevant inputs are eventually transformed into functional outcomes. Assessing brain-behavior relationships thus requires considering the (possibly nonlinear and stochastic) impact of biological constraints of input-output transformations in the brain. In this talk, I will review the portfolio of existing approaches to decomposing the brain's transformation of stimuli into behavioural outcomes, in terms of the relative contribution of brain regions and their connections. In particular, I will highlight three novel techniques, namely: mass mediation analysis, artificial neural network modelling, and behavioral DCM (dynamic causal modelling). The aim here is for attendees to understand the strengths and weaknesses of each approach in turn, as well as gain practical know-how regarding how to perform such analyses. </p>
 </details>
+
 
 <details>
 <summary>
@@ -71,10 +77,9 @@ A growing synergy between the fields of cognitive neuroscience and mathematical 
 </details>
 
 
-<details><summary></i> Panel discussion </i></summary>
+<details><summary><i> Panel discussion <i></summary>
 <p>
 Join the event on [slido.com]https://www.sli.do/) with the code **#OHBM** and ask your questions!
-
 </p>
 </details>
 
