@@ -6,19 +6,17 @@ permalink:   /ohbm-course/
 
 # The Missing Link: How to Combine Neuroimaging Data with Computational Models of Behavior
 
-This course will take place on 9 June 2019 from 13:00 to 16:30 in the [OHBM meeting](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3920).
+This course will take place on 9 June 2019 from 13:00 to 16:30 at the [OHBM meeting](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3920) in Rome.
 
 ![image](/images/im.png)
 
-Cognitive computational models proved useful for the scientific community in a wide range of research areas, such as decision making, learning and memory. Modelling behaviour offers a way to see beyond raw behavioral measures, such as accuracies and reaction times, and estimate latent cognitive parameters which drive behaviour. 
-
-The key challenge of the field lies in integrating cognitive models of behaviour with the rich ensemble of neural data. Neuroimaging technologies offer a plethora of ways to sample neural data, each having its benefits and drawbacks. 
+Cognitive computational models proved useful for the scientific community in a wide range of research areas, such as decision making, learning and memory. Modelling behaviour offers a way to see beyond raw behavioral measures, such as accuracies and reaction times, and estimate latent cognitive parameters which drive behaviour. The key challenge of the field lies in integrating cognitive models of behaviour with the rich ensemble of neural data. Neuroimaging technologies offer a plethora of ways to sample neural data, each having its benefits and drawbacks. 
 
 In this workshop, we aim to bridge these two well-developed and self-proved areas. 
 
-If you are a researcher working with a variety of neuroimaging methods, such as fMRI, EEG, MEG, DWI, TMS, and others, and incorporate behavioral measures (e.g. reaction time, accuracy, ratings) in your experiments, this course could be beneficiary for you. 
+If you are a researcher working with a variety of neuroimaging methods, and incorporate behavioral measures in your experiments, this course could be beneficiary for you. 
 
-We will be collecting questions during the course on [OHBM app](https://gmp3.cnf.io/). If you have any question for the presenters, please choose this course and type your questions!
+We will be taking questions during the course on [OHBM app](https://gmp3.cnf.io/). If you have any question for the presenters, please choose this course on the website and type your questions!
 
 Course material will be available here soon.
 
@@ -55,4 +53,4 @@ Course material will be available here soon.
 - [Wojciech Zajkowski](https://ccbrain.org/people/wojciech_zajkowski/index.html), 
 - [Jiaxiang Zhang](https://www.cardiff.ac.uk/people/view/zhangj73.php).
 
-![OHBM](/images/hbm.png)
+![OHBM](/images/hbm-all.png)
