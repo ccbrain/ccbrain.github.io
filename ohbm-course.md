@@ -39,7 +39,8 @@ In recent years, the amount of neuroimaging data we collect has been growing in 
 Cognitive neuroscientists study how the brain implements particular cognitive processes such as perception, learning, and decision-making. Traditional approaches in which experiments are designed to target a specific cognitive process have been supplemented by two recent innovations. First, formal cognitive models can decompose observed behavioral data into multiple latent cognitive processes, allowing brain measurements to be associated with a particular cognitive process more precisely and more confidently. Second, cognitive neuroscience can provide additional data to inform the development of formal cognitive models, providing greater constraint than behavioral data alone. We argue that these fields are mutually dependent; not only can models guide neuroscientific endeavors, but understanding neural mechanisms can provide key insights into formal models of cognition.  </p>
 </details>
 
-- 
+
+
 <details> <summary> <i>"Reinforcement learning models and integration with fMRI" </i> by <a href="http://www.psy.pku.edu.cn/english/people/faculty/professor/267657.htm"> Jian Li</a>
 </summary>
 <p>
@@ -63,13 +64,16 @@ A growing synergy between the fields of cognitive neuroscience and mathematical 
 </details>
 
 
-- 
-<details> <summary> <i> "Panel discussion" <i>  </summary>
+
+<details> <summary> <i> "Panel discussion" </i>  
+</summary>
 <p>
 Join the event on on [OHBM app](https://gmp3.cnf.io/) and ask your questions! </p>
 </details>
 
+
 ## Organizers
+
 - [Lorena Santamaria](http://www.cardiff.ac.uk/people/view/1253591-santamaria-lorena), 
 - [Esin Karahan](https://www.cardiff.ac.uk/people/view/1216230-karahan-esin), 
 - [Wojciech Zajkowski](https://ccbrain.org/people/wojciech_zajkowski/index.html), 
