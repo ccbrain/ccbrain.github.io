@@ -4,15 +4,15 @@ title: 			"Publications"
 permalink: 		/publications/
 ---
 # Preprints
-* Karahan E, Costigan AG, Graham KS, Lawrence AD, Zhang J (2018). Cognitive and white-matter compartment models revealed the contribution of microstructural variability along sensorimotor tracts to simple reaction time. BioRxiv 473660. \[[doi.org/10.1101/473660](https://doi.org/10.1101/473660)\] \[[Code](https://github.com/esinkarahan/ATA)\]
 * Szul MJ, Bompas A, Sumner P, Zhang J (2018). The validity and consistency of continuous joystick response in perceptual decision-making. BioRxiv 501536. \[[doi.org/10.1101/501536](https://doi.org/10.1101/501536)\] \[[Code & Data](https://osf.io/6fpq4)\]
 * Hodgetts CJ, Stefani M, Williams AN, Kolarik BS, Yonelinas AP, Ekstrom AD, Lawrence AD, Zhang J, Graham KS (2018). The role of the fornix in human navigational learning. BioRxiv 391888. \[[doi.org/10.1101/391888](https://doi.org/10.1101/391888)\]
 
 
 # Journal articles
-* Wolpe N, Zhang J, Nombela C, Ingram JN, Wolpert DM, Rowe JB (in press) Sensory attenuation is related to dopamine dose in Parkinson's disease. Scientific reports. [doi.org/10.1101/221317](https://doi.org/10.1101/221317)
-* Jia K, Xue X, Lee J, Fang F, Zhang J, Li S. (in press). Visual perceptual learning modulates decision network in the human brain: the evidence from psychophysics, modeling, and functional magnetic resonance imaging, Journal of Vision.
-* Dima D, Perry G, Messaritaki E, Zhang J, Singh K (2018). Spatiotemporal dynamics in human visual cortex rapidly encode the emotional content of faces. Human Brain Mapping 39:3993–4006.
+* Karahan E, Costigan AG, Graham KS, Lawrence AD, Zhang J (in press). Cognitive and white-matter compartment models reveal selective relations between corticospinal tract microstructure and simple reaction time. Journal of Neuroscience. \[[Preprint](https://doi.org/10.1101/473660)\] \[[Code](https://github.com/esinkarahan/ATA)\]
+* Wolpe N, Zhang J, Nombela C, Ingram JN, Wolpert DM, Rowe JB (2018) Sensory attenuation in Parkinson’s disease is related to disease severity and dopamine dose. Scientific reports 8:15643. \[[Article](https://www.nature.com/articles/s41598-018-33678-3)\] \[[Preprint](https://doi.org/10.1101/221317)\]
+* Jia K, Xue X, Lee J, Fang F, Zhang J, Li S. (2018). Visual perceptual learning modulates decision network in the human brain: the evidence from psychophysics, modeling, and functional magnetic resonance imaging, Journal of Vision, 18(12):9, 1–19. \[[Article](https://jov.arvojournals.org/article.aspx?articleid=2715086)\]
+* Dima D, Perry G, Messaritaki E, Zhang J, Singh K (2018). Spatiotemporal dynamics in human visual cortex rapidly encode the emotional content of faces. Human Brain Mapping 39:3993–4006. \[[Article](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24226)\]
 * Phillips HN, Cope TE, Hughes LE, Zhang J, Rowe JB (2018). Monitoring the past and choosing the future: the prefrontal cortical influences on voluntary action. Scientific reports, 8(1):7247.
 * Zhang J, Nombela C, Wolpe N, Barker RA, Rowe JB (2016). Time on timing: Dissociating premature responding from interval sensitivity in Parkinson’s disease. Movement Disorders 31:1163–72.
 * Zhang J, Rittman T, Nombela C, Fois A, Coyle-Gilchrist I, Barker RA, Rowe JB (2016) Different decision deficits impair response inhibition in Progressive Supranuclear Palsy and Parkinson’s disease. Brain 139:161-73. (F1000 recommended)
