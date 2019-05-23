@@ -6,9 +6,7 @@ permalink: 		/join/
 
 ## Current opportunities
 
-<i class="fa fa-pencil-square-o fa-2x" aria-hidden="true" style="color: #F47E3E; font-size: 1.5em; !important"></i>One 3-year post-doctoral fellowship is available to work on a [ERC](https://erc.europa.eu)-funded project. The research fellow will use multimodal brain imaging (7T BOLD-fMRI/MRS/dMRI) to investigate the neurobiological and neurochemical mechanisms of decision-making. [Apply online (Deadline January 11, 2019)](https://www.jobs.ac.uk/job/BOW399/research-associate)
-
-<i class="fa fa-pencil-square-o fa-2x" aria-hidden="true" style="color: #F47E3E; font-size: 1.5em; !important"></i>One 3-years PhD studentship on structural-functional connectivity and decision-making [Apply online (Deadline February 1, 2019)](https://www.findaphd.com/phds/project/multimodal-understanding-of-intentional-decision-in-the-human-brain/?p105180)
+<i class="fa fa-pencil-square-o fa-2x" aria-hidden="true" style="color: #F47E3E; font-size: 1.5em; !important"></i>One 3-years PhD studentship on structural-functional connectivity and decision-making [Apply online (Deadline June 10, 2019)](https://www.findaphd.com/phds/project/multimodal-understanding-of-intentional-decision-in-the-human-brain/?p105180)
 
 ## General information
 
