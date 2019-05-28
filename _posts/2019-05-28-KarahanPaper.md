@@ -11,7 +11,7 @@ A new paper by [Esin Karahan](/people/esin_karahan) and our collaborators is pub
 The paper is now available [online](http://www.jneurosci.org/content/early/2019/05/23/JNEUROSCI.2954-18.2019).
 
 <figure  class="center">
-	<a href="/images/photo/Karahanpaper.png"><img src="/images/photo/Karahanpaper.jpg" alt=""></a>
+	<a href="/images/photo/Karahanpaper.png"><img src="/images/photo/Karahanpaper.png" alt=""></a>
 </figure>
 
 
