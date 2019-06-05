@@ -4,12 +4,12 @@ title: 			"Publications"
 permalink: 		/publications/
 ---
 # Preprints
-* Szul MJ, Bompas A, Sumner P, Zhang J (2018). The validity and consistency of continuous joystick response in perceptual decision-making. BioRxiv 501536. \[[doi.org/10.1101/501536](https://doi.org/10.1101/501536)\] \[[Code & Data](https://osf.io/6fpq4)\]
 * Hodgetts CJ, Stefani M, Williams AN, Kolarik BS, Yonelinas AP, Ekstrom AD, Lawrence AD, Zhang J, Graham KS (2018). The role of the fornix in human navigational learning. BioRxiv 391888. \[[doi.org/10.1101/391888](https://doi.org/10.1101/391888)\]
 
 
 # Journal articles
-* Karahan E, Costigan AG, Graham KS, Lawrence AD, Zhang J (in press). Cognitive and white-matter compartment models reveal selective relations between corticospinal tract microstructure and simple reaction time. Journal of Neuroscience. \[[Preprint](https://doi.org/10.1101/473660)\] \[[Code](https://github.com/esinkarahan/ATA)\]
+* Szul MJ, Bompas A, Sumner P, Zhang J (in press). The validity and consistency of continuous joystick response in perceptual decision-making. Behavior Research Methods. \[[Preprint](https://doi.org/10.1101/501536)\] \[[Code & Data](https://osf.io/6fpq4)\]
+* Karahan E, Costigan AG, Graham KS, Lawrence AD, Zhang J (2019). Cognitive and white-matter compartment models reveal selective relations between corticospinal tract microstructure and simple reaction time. Journal of Neuroscience. [[Article](https://doi.org/10.1523/JNEUROSCI.2954-18.2019)] \[[Preprint](https://doi.org/10.1101/473660)\] \[[Code](https://github.com/esinkarahan/ATA)\]
 * Wolpe N, Zhang J, Nombela C, Ingram JN, Wolpert DM, Rowe JB (2018) Sensory attenuation in Parkinson’s disease is related to disease severity and dopamine dose. Scientific reports 8:15643. \[[Article](https://www.nature.com/articles/s41598-018-33678-3)\] \[[Preprint](https://doi.org/10.1101/221317)\]
 * Jia K, Xue X, Lee J, Fang F, Zhang J, Li S. (2018). Visual perceptual learning modulates decision network in the human brain: the evidence from psychophysics, modeling, and functional magnetic resonance imaging, Journal of Vision, 18(12):9, 1–19. \[[Article](https://jov.arvojournals.org/article.aspx?articleid=2715086)\]
 * Dima D, Perry G, Messaritaki E, Zhang J, Singh K (2018). Spatiotemporal dynamics in human visual cortex rapidly encode the emotional content of faces. Human Brain Mapping 39:3993–4006. \[[Article](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24226)\]
@@ -31,7 +31,6 @@ permalink: 		/publications/
 * Zhang J, Bogacz R (2010). Bounded Ornstein-Uhlenbeck models for two-choice time controlled tasks. Journal of Mathematical Psychology 54:322-33.
 * Schwarzkopf DS, Zhang J, Kourtzi Z (2009). Flexible learning of natural statistics in the human brain. Journal of Neurophysiology 102:1854-67.
 * Zhang J, Bogacz R, Holmes P (2009). A comparison of bounded diffusion models for choice in time controlled tasks. Journal of Mathematical Psychology 53:231-41.
-
 * Bogacz R, Usher M, Zhang J, McClelland JL (2006). Extending a biologically inspired model of choice: multi-alternatives, nonlinearity and value-based multidimensional choice. Philosophical Transactions of the Royal Society Series B 362:1655-70.
 
 
