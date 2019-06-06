@@ -1,7 +1,7 @@
 ---
 published: true
 title: Soapbox Science in Cardiff
-categories: science
+categories: general
 author: Esin Karahan
 description: "Soapbox Science in Cardiff"
 ---
@@ -12,7 +12,7 @@ Last week, [Esin](/people/esin_karahan) spoke on the [Soapbox Science event](htt
 
 <figure class="half">
 	<a href="/images/photo/Esin_Soapbox.jpg"><img src="/images/photo/Esin_Soapbox.jpg" alt=""></a>
-	<a href="/images/photo/Esin_Soapbox2.jpg"><img src="/images/photo/Esin_Soapbox.jpg" alt=""></a>
+	<a href="/images/photo/Esin_Soapbox2.jpg"><img src="/images/photo/Esin_Soapbox2.jpg" alt=""></a>
 </figure>
 
 
