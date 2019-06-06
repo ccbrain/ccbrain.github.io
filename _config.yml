@@ -39,6 +39,8 @@ menu:
     submenu:
         - title: 'Updates'
           url: '/updates'
+        - title: 'Resources'
+          url: '/resources'
         - title: 'Contact'
           url: '/#contact'
   #- title: 'Stuff'
