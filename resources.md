@@ -1,7 +1,7 @@
 ---
-layout: 		default
-title: 			"Resources"
-permalink: 		/resources/
+layout:   default
+title:   "Resources"
+permalink:   /resources/
 ---
 
 ## Analysis scripts
