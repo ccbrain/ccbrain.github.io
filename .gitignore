@@ -4,7 +4,7 @@ _site/
 *.swp
 .sass-cache/*
 .vscode/
-
+Gemfile.lock
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
