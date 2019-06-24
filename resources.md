@@ -32,4 +32,4 @@ This is an analysis pipeline for searching structural-functional associations al
 
 ## 3. Training
 
-**3.1. [2019 OHBM training couse brief](/ohbm-course)**
+**3.1. [2019 OHBM training course brief](/ohbm-course)**
