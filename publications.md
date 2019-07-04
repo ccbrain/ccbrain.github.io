@@ -8,7 +8,7 @@ permalink: 		/publications/
 
 
 # Journal articles
-* Szul MJ, Bompas A, Sumner P, Zhang J (in press). The validity and consistency of continuous joystick response in perceptual decision-making. Behavior Research Methods. \[[Preprint](https://doi.org/10.1101/501536)\] \[[Code & Data](https://osf.io/6fpq4)\]
+* Szul MJ, Bompas A, Sumner P, Zhang J (in press). The validity and consistency of continuous joystick response in perceptual decision-making. Behavior Research Methods. \[[Article](https://link.springer.com/article/10.3758/s13428-019-01269-3)\] \[[Preprint](https://doi.org/10.1101/501536)\] \[[Code & Data](https://osf.io/6fpq4)\]
 * Karahan E, Costigan AG, Graham KS, Lawrence AD, Zhang J (2019). Cognitive and white-matter compartment models reveal selective relations between corticospinal tract microstructure and simple reaction time. Journal of Neuroscience. [[Article](https://doi.org/10.1523/JNEUROSCI.2954-18.2019)] \[[Preprint](https://doi.org/10.1101/473660)\] \[[Code](https://github.com/esinkarahan/ATA)\]
 * Wolpe N, Zhang J, Nombela C, Ingram JN, Wolpert DM, Rowe JB (2018) Sensory attenuation in Parkinson’s disease is related to disease severity and dopamine dose. Scientific reports 8:15643. \[[Article](https://www.nature.com/articles/s41598-018-33678-3)\] \[[Preprint](https://doi.org/10.1101/221317)\]
 * Jia K, Xue X, Lee J, Fang F, Zhang J, Li S. (2018). Visual perceptual learning modulates decision network in the human brain: the evidence from psychophysics, modeling, and functional magnetic resonance imaging, Journal of Vision, 18(12):9, 1–19. \[[Article](https://jov.arvojournals.org/article.aspx?articleid=2715086)\]
