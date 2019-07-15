@@ -4,6 +4,8 @@ title: 			"Publications"
 permalink: 		/publications/
 ---
 # Preprints
+
+* Krzeminski D, Masuda N, Hamandi K, Singh KD, Routley B, Zhang J (2019). Frontoparietal network dynamics impairments in juvenile myoclonic epilepsy revealed by MEG energy landscape. BioRxiv 703074. \[[doi.org/10.1101/703074](https://doi.org/10.1101/703074)\]
 * Hodgetts CJ, Stefani M, Williams AN, Kolarik BS, Yonelinas AP, Ekstrom AD, Lawrence AD, Zhang J, Graham KS (2018). The role of the fornix in human navigational learning. BioRxiv 391888. \[[doi.org/10.1101/391888](https://doi.org/10.1101/391888)\]
 
 
