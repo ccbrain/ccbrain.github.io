@@ -14,7 +14,24 @@ permalink: /people/alumni
 {% for item in people_array %}
   {% for profile in people_sorted %}
     {% if profile.position contains item %}
-		<li ><a href="{{ site.baseurl }}{{ profile.url }}">{{ profile.title }}
+        <li >{{ profile.title }}
+        {% if profile.oldposition == 'postdoc' %}
+        (Postdoctoral Fellow,
+        {% elsif profile.oldposition == 'pi' %}
+        (Principal Investigator,
+        {% elsif profile.oldposition == 'phd' %}
+        (PhD Student,
+        {% elsif profile.oldposition == 'ra' %}
+        (Research Assistant,
+        {% elsif profile.oldposition == 'visiting' %}
+        (Visiting Scholar,
+        {% elsif profile.oldposition == 'visitstudent' %}
+        (Visiting Student,
+        {% elsif profile.oldposition == 'intern' %}
+        (Research Intern,
+        {% endif %}{{profile.year}})
+
+		<!--<li ><a href="{{ site.baseurl }}{{ profile.url }}">{{ profile.title }}
 		{% if profile.oldposition == 'postdoc' %}
 		(Postdoctoral Fellow,
 		{% elsif profile.oldposition == 'pi' %}
@@ -27,7 +44,7 @@ permalink: /people/alumni
 		(Visiting Scholar,
 		{% elsif profile.oldposition == 'intern' %}
 		(Research Intern,
-		{% endif %}{{profile.year}})</a>
+		{% endif %}{{profile.year}})</a>-->
 		
 		
 		</li>

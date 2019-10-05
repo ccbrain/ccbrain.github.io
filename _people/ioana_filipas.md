@@ -1,7 +1,9 @@
 ---
 title: Ioana Filipas
-position: intern
+position: alumni
+oldposition: intern
 avatar: filipas.jpg
+year: 2018
 ---
 
 # Brief bio
