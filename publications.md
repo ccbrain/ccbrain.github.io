@@ -6,10 +6,10 @@ permalink: 		/publications/
 # Preprints
 
 * Krzeminski D, Masuda N, Hamandi K, Singh KD, Routley B, Zhang J (2019). Frontoparietal network dynamics impairments in juvenile myoclonic epilepsy revealed by MEG energy landscape. BioRxiv 703074. \[[doi.org/10.1101/703074](https://doi.org/10.1101/703074)\]
-* Hodgetts CJ, Stefani M, Williams AN, Kolarik BS, Yonelinas AP, Ekstrom AD, Lawrence AD, Zhang J, Graham KS (2018). The role of the fornix in human navigational learning. BioRxiv 391888. \[[doi.org/10.1101/391888](https://doi.org/10.1101/391888)\]
 
 
 # Journal articles
+* Hodgetts CJ, Stefani M, Williams AN, Kolarik BS, Yonelinas AP, Ekstrom AD, Lawrence AD, Zhang J, Graham KS (in press). The role of the fornix in human navigational learning. Cortex. \[[Preprint](https://doi.org/10.1101/391888)\]
 * Szul MJ, Bompas A, Sumner P, Zhang J (in press). The validity and consistency of continuous joystick response in perceptual decision-making. Behavior Research Methods. \[[Article](https://link.springer.com/article/10.3758/s13428-019-01269-3)\] \[[Preprint](https://doi.org/10.1101/501536)\] \[[Code & Data](https://osf.io/6fpq4)\]
 * Karahan E, Costigan AG, Graham KS, Lawrence AD, Zhang J (2019). Cognitive and white-matter compartment models reveal selective relations between corticospinal tract microstructure and simple reaction time. Journal of Neuroscience. [[Article](https://doi.org/10.1523/JNEUROSCI.2954-18.2019)] \[[Preprint](https://doi.org/10.1101/473660)\] \[[Code](https://github.com/esinkarahan/ATA)\]
 * Wolpe N, Zhang J, Nombela C, Ingram JN, Wolpert DM, Rowe JB (2018) Sensory attenuation in Parkinson’s disease is related to disease severity and dopamine dose. Scientific reports 8:15643. \[[Article](https://www.nature.com/articles/s41598-018-33678-3)\] \[[Preprint](https://doi.org/10.1101/221317)\]
