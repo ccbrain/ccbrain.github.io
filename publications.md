@@ -6,6 +6,7 @@ permalink: 		/publications/
 # Preprints
 
 * Krzeminski D, Masuda N, Hamandi K, Singh KD, Routley B, Zhang J (2019). Frontoparietal network dynamics impairments in juvenile myoclonic epilepsy revealed by MEG energy landscape. BioRxiv 703074. \[[doi.org/10.1101/703074](https://doi.org/10.1101/703074)\]
+* Tomassini A, Price D, Zhang J, Rowe JB (2019). On the evolution of neural decisions from uncertain visual input to uncertain actions. BioRxiv 803049. \[[doi.org/10.1101/803049](https://doi.org/10.1101/803049)\]
 
 
 # Journal articles
