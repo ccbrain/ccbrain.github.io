@@ -3,7 +3,7 @@ layout: default
 title: "Our team"
 permalink: /people/alumni
 ---
-{% assign people_sorted = site.people | sort: 'joined' %}
+{% assign people_sorted = site.people | sort: 'oldposition' %}
 {% assign people_array = "alumni" | split: "|" %}
 <section class="menuaa">
 <div>
