@@ -12,7 +12,7 @@ permalink: 		/publications/
 
 
 # Journal articles
-* Krzemiński D, Masuda N, Hamandi K, Singh KD, Routley B, Zhang J (2020). **Energy landscape of resting magnetoencephalography reveals fronto-parietal network impairments in epilepsy**. Network Neuroscience. \[[Article](https://www.mitpressjournals.org/doi/abs/10.1162/netn_a_00125)\] \[[Code](https://github.com/dokato/energy_landscape)\]
+* Krzemiński D, Masuda N, Hamandi K, Singh KD, Routley B, Zhang J (2020). **Energy landscape of resting magnetoencephalography reveals fronto-parietal network impairments in epilepsy**. Network Neuroscience, 4:374-396. \[[Article](https://www.mitpressjournals.org/doi/abs/10.1162/netn_a_00125)\] \[[Code](https://github.com/dokato/energy_landscape)\]
 * Hodgetts CJ, Stefani M, Williams AN, Kolarik BS, Yonelinas AP, Ekstrom AD, Lawrence AD, Zhang J, Graham KS (2020). **The role of the fornix in human navigational learning**. Cortex, 124:97-110. \[[Article](https://doi.org/10.1016/j.cortex.2019.10.017)\]
 * Szul MJ, Bompas A, Sumner P, Zhang J (2019). **The validity and consistency of continuous joystick response in perceptual decision-making**. Behavior Research Methods. \[[Article](https://link.springer.com/article/10.3758/s13428-019-01269-3)\] \[[Preprint](https://doi.org/10.1101/501536)\] \[[Code & Data](https://osf.io/6fpq4)\]
 * Karahan E, Costigan AG, Graham KS, Lawrence AD, Zhang J (2019). **Cognitive and white-matter compartment models reveal selective relations between corticospinal tract microstructure and simple reaction time**. Journal of Neuroscience, 39:5910-5921. [[Article](https://doi.org/10.1523/JNEUROSCI.2954-18.2019)] \[[Preprint](https://doi.org/10.1101/473660)\] \[[Code](https://github.com/esinkarahan/ATA)\]

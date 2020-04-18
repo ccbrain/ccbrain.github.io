@@ -1,6 +1,7 @@
 ---
 title: Maciej Szul
-position: phd
+position: alumni
+oldposition: phd
 avatar: szul.jpg
 ---
 
