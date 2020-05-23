@@ -5,6 +5,7 @@ permalink: 		/publications/
 ---
 # Preprints
 
+*  Lopes MA, Krzemiński D, Hamandi K, Singh KD, Masuda N, Terry JR, Zhang J (2020). **A computational biomarker of juvenile myoclonic epilepsy from resting-state MEG**. MedRxiv:2020.05.18.20102681. \[[Main text](https://www.medrxiv.org/content/10.1101/2020.05.18.20102681v1)\]
 * Tait L, Ozkan A, Szul MJ, Zhang J (2020). **Cortical source imaging of resting-state MEG with a high resolution atlas: An evaluation of methods**. BioRxiv 903302. \[[Main text](https://www.biorxiv.org/content/10.1101/2020.01.12.903302v1)\] \[[Supplementary material](https://www.biorxiv.org/content/10.1101/2020.01.12.903302v1.supplementary-material)\] \[[Code](https://github.com/lukewtait/evaluate_inverse_methods)\]
 *  Lopes MA, Zhang J, Krzemiński D, Hamandi K, Chen Q, Livi L, Masuda N (2020). **Recurrence Quantification Analysis of Dynamic Brain Networks**. ArXiv:2001.03761. \[[Main text](https://arxiv.org/abs/2001.03761)\]
 * Zajkowski W, Krzemiński D, Barone J, Evans LH, Zhang J (2019). **Reward certainty and preference bias selectively shape voluntary decisions**. BioRxiv 832311. \[[Main text](https://doi.org/10.1101/832311)\] \[[Code](https://github.com/ccbrain/voluntary-decision-eeg)\] \[[Data](https://doi.org/10.6084/m9.figshare.9989552.v1)\]
