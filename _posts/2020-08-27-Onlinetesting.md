@@ -91,7 +91,7 @@ with extra waiting time "dummy" trial to ensure that data gets saved.
 To identify your participants based on their ProlificID, you can simply modify the link to your experiment like this: 
 
 ```
-https://run.pavlovia.org/dokato/2drdkx/?PARTICIPANT_ID={{%PROLIFIC_PID%}}
+https://run.pavlovia.org/dokato/2drdkx/?PARTICIPANT_ID={{"{{%"}}PROLIFIC_PID%}}
 ```
 
 And add to pavlovia code: 
