@@ -4,14 +4,14 @@ title: 			"Publications"
 permalink: 		/publications/
 ---
 # Preprints
-
+* Si R, Rowe JB, & Zhang J (2020). **Functional localization and categorization of intentional decisions in humans: a meta-analysis of brain imaging studies**. \[[Main text](https://www.biorxiv.org/content/10.1101/2020.11.27.401208v1)\]
 *  Lopes MA, Krzemiński D, Hamandi K, Singh KD, Masuda N, Terry JR, Zhang J (2020). **A computational biomarker of juvenile myoclonic epilepsy from resting-state MEG**. MedRxiv:2020.05.18.20102681. \[[Main text](https://www.medrxiv.org/content/10.1101/2020.05.18.20102681v1)\]
 * Tait L, Ozkan A, Szul MJ, Zhang J (2020). **Cortical source imaging of resting-state MEG with a high resolution atlas: An evaluation of methods**. BioRxiv 903302. \[[Main text](https://www.biorxiv.org/content/10.1101/2020.01.12.903302v1)\] \[[Supplementary material](https://www.biorxiv.org/content/10.1101/2020.01.12.903302v1.supplementary-material)\] \[[Code](https://github.com/lukewtait/evaluate_inverse_methods)\]
 * Tomassini A, Price D, Zhang J, Rowe JB (2019). **On the evolution of neural decisions from uncertain visual input to uncertain actions**. BioRxiv 803049. \[[Main text](https://doi.org/10.1101/803049)\] \[[Supplementary material](https://www.biorxiv.org/content/10.1101/803049v1.supplementary-material)\]
 
 
 # Journal articles
-* Zajkowski W, Krzemiński D, Barone J, Evans LH, Zhang J (in press). **Reward certainty and preference bias selectively shape voluntary decisions**. Computational Brain & Behavior. \[[Preprint](https://doi.org/10.1101/832311)\] \[[Code](https://github.com/ccbrain/voluntary-decision-eeg)\] \[[Data](https://doi.org/10.6084/m9.figshare.9989552.v1)\]
+* Zajkowski W, Krzemiński D, Barone J, Evans LH, Zhang J (in press). **Breaking Deadlocks: Reward Probability and Spontaneous Preference Shape Voluntary Decisions and Electrophysiological Signals in Humans**. Computational Brain & Behavior. \[[Article](https://link.springer.com/article/10.1007%2Fs42113-020-00096-6)\] \[[Code](https://github.com/ccbrain/voluntary-decision-eeg)\] \[[Data](https://doi.org/10.6084/m9.figshare.9989552.v1)\]
 * Lopes MA, Zhang J, Krzemiński D, Hamandi K, Chen Q, Livi L, Masuda N (2020). **Recurrence Quantification Analysis of Dynamic Brain Networks**. European Journal of Neuroscience. \[[Article](https://doi.org/10.1111/ejn.14960)\]
 * Krzemiński D, Masuda N, Hamandi K, Singh KD, Routley B, Zhang J (2020). **Energy landscape of resting magnetoencephalography reveals fronto-parietal network impairments in epilepsy**. Network Neuroscience, 4:374-396. \[[Article](https://www.mitpressjournals.org/doi/abs/10.1162/netn_a_00125)\] \[[Code](https://github.com/dokato/energy_landscape)\]
 * Hodgetts CJ, Stefani M, Williams AN, Kolarik BS, Yonelinas AP, Ekstrom AD, Lawrence AD, Zhang J, Graham KS (2020). **The role of the fornix in human navigational learning**. Cortex, 124:97-110. \[[Article](https://doi.org/10.1016/j.cortex.2019.10.017)\]
