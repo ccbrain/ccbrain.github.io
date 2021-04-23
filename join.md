@@ -4,10 +4,12 @@ title: 			"Join us"
 permalink: 		/join/
 ---
 
-## Current opportunities
+<!--## Current opportunities
+
+<i class="fa fa-pencil-square-o fa-2x" aria-hidden="true" style="color: #F47E3E; font-size: 1.5em; !important"></i> We are looking for a research assistant to start as soon as possible. The RA will be responsible to conduct online behavioural experiments. Deadline March 24 \[[application link](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=30011&siteid=5460&PageType=JobDetails&jobid=1788654)\]
 
 <i class="fa fa-pencil-square-o fa-2x" aria-hidden="true" style="color: #F47E3E; font-size: 1.5em; !important"></i> We are looking for a post-doctoral reserach fellow to start in Feburary 2021. The research fellow will use multimodal brain imaging (7T BOLD-fMRI/MRS/dMRI) to investigate the neurobiological and neurochemical mechanisms of decision-making.
-
+-->
 
 <!--<i class="fa fa-pencil-square-o fa-2x" aria-hidden="true" style="color: #F47E3E; font-size: 1.5em; !important"></i>MRC-funded 3.5-years PhD studentship on the connectomics of Alzheimer’s risk. 
 

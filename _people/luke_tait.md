@@ -1,7 +1,9 @@
 ---
 title: Luke Tait
-position: postdoc
+position: alumni
+oldposition: postdoc
 avatar: tait.jpg
+year: 2019-2021
 ---
 
 # Brief bio
