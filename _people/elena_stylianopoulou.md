@@ -1,6 +1,8 @@
 ---
 title: Elena Stylianopoulou
-position: intern
+oldposition: intern
+position: alumni
+year: 2020-2021
 ---
 
 <!-- Brief bio -->

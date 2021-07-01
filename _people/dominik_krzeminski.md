@@ -1,7 +1,9 @@
 ---
 title: Dominik Krzeminski
-position: phd
+position: alumni
+oldposition: phd
 avatar: krzeminski.jpg
+year: 2017-2021
 ---
 
 # Brief bio

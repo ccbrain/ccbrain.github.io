@@ -1,7 +1,9 @@
 ---
 title: Charlotte Austin
-position: intern
+oldposition: intern
 avatar: austin.jpg
+position: alumni
+year: 2019-2021
 ---
 
 <!-- Brief bio -->
