@@ -11,5 +11,5 @@ A new paper led by [Marinho Lopes](/people/marinho_lopes) is published on Clinic
 The paper is now available [online](https://www.sciencedirect.com/science/article/pii/S1388245721000316).
 
 <figure  class="center">
-    <a href="/images/photo/equalChoices.png"><img src="/images/photo/bni_paper.jpg" alt=""></a>
+    <a href="/images/photo/bni_paper.jpg"><img src="/images/photo/bni_paper.jpg" alt=""></a>
 </figure>
