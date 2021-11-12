@@ -1,7 +1,10 @@
 ---
 title: Wojciech Zajkowski
 position: phd
-avatar: zajkowski.jpg
+position: alumni
+oldposition: phd
+avatar: krzeminski.jpg
+year: 2017-2021
 ---
 
 # Brief bio

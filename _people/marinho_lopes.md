@@ -1,6 +1,6 @@
 ---
 title: Marinho Lopes
-position: postdoc
+position: visiting
 joined: 2019
 twitter: ccbrainlab
 avatar: lopes.jpg
