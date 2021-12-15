@@ -4,6 +4,8 @@ title: 			"Publications"
 permalink: 		/publications/
 ---
 # Preprints
+
+* Lopes MA, Hamandi K, Zhang J, Creaser J. **The interaction between neural populations: Additive versus diffusive coupling**. bioRxiv. \[[Main text](https://www.biorxiv.org/content/10.1101/2021.11.29.470398v1)\]
 * Tait L, Zhang J. **MEG cortical microstates: spatiotemporal characteristics, dynamic functional connectivity and stimulus-evoked responses**. bioRxiv. \[[Main text](https://doi.org/10.1101/2021.03.25.436979)\]
 * Tait L, Zhang J **\+microstate: A MATLAB toolbox for brain microstate analysis in sensor and cortical EEG/MEG**. bioRxiv. \[[Main text](https://www.biorxiv.org/content/10.1101/2021.07.13.452193)\] \[[Toolbox](https://plus-microstate.github.io)\]
 * Krzemiński D, Zhang J. **Imperfect integration: sensory congruency between multiple sources modulates selective decision-making processes**. bioRxiv. \[[Main text](https://doi.org/10.1101/2021.03.14.435307)\]
