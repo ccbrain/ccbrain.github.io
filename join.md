@@ -8,14 +8,12 @@ permalink: 		/join/
 
 <!--<i class="fa fa-pencil-square-o fa-2x" aria-hidden="true" style="color: #F47E3E; font-size: 1.5em; !important"></i> We are looking for a research assistant to start as soon as possible. The RA will be responsible to conduct online behavioural experiments. Deadline March 24 \[[application link](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=30011&siteid=5460&PageType=JobDetails&jobid=1788654)\] -->
 
-<i class="fa fa-pencil-square-o fa-2x" aria-hidden="true" style="color: #F47E3E; font-size: 1.5em; !important"></i> We are looking for a post-doctoral reserach fellow. The research fellow will use multimodal brain imaging (7T BOLD-fMRI/MRS/dMRI) to investigate the neurobiological and neurochemical mechanisms of decision-making. [Apply online](https://www.jobs.ac.uk/job/CGI527/research-associate)
+<i class="fa fa-pencil-square-o fa-2x" aria-hidden="true" style="color: #F47E3E; font-size: 1.5em; !important"></i> We are looking for two post-doctoral reserach associates. The research fellow will use multimodal brain imaging (7T BOLD-fMRI/MRS/dMRI) to investigate the neurobiological and neurochemical mechanisms of decision-making. Deadline: Jan 14, 2022. [Apply online](https://www.jobs.ac.uk/job/CLV361/research-associates-2-posts)
 
 
-<!--<i class="fa fa-pencil-square-o fa-2x" aria-hidden="true" style="color: #F47E3E; font-size: 1.5em; !important"></i>MRC-funded 3.5-years PhD studentship on the connectomics of Alzheimer’s risk. 
+<i class="fa fa-pencil-square-o fa-2x" aria-hidden="true" style="color: #F47E3E; font-size: 1.5em; !important"></i>PhD studentship on information processing speed. [Project details (Deadline March 11, 2022)](https://www.findaphd.com/phds/project/characterizing-inter-individual-differences-and-longitudinal-changes-in-information-processing-speed/?p139840)
 
-[Project details (Deadline November 23, 2020)](https://www.findaphd.com/phds/project/the-connectomics-of-alzheimer-s-risk-characterising-brain-temporal-network-dynamics-in-young-adults-at-increased-genetic-risk-for-late-onset-alzheimer-s-disease/?p123824)
-
-<b>Project description</b>: Using advanced imaging and novel mathematical approaches, you will identify spatio-temporal brain networks that show altered dynamics in adults with genetic risk for Alzheimer’s disease. This PhD project will provide grounding in network Neuroscience — an evolving field using complex network theories to study the brain across multiple scales and modalities. We encourage candidates from different disciplines (e.g., cognitive/computational neuroscience, psychology, computer science, engineering, mathematics or physics). [(How to apply)](https://www.gw4biomed.ac.uk/doctoral-students/) 
+<!--<b>Project description</b>: Using advanced imaging and novel mathematical approaches, you will identify spatio-temporal brain networks that show altered dynamics in adults with genetic risk for Alzheimer’s disease. This PhD project will provide grounding in network Neuroscience — an evolving field using complex network theories to study the brain across multiple scales and modalities. We encourage candidates from different disciplines (e.g., cognitive/computational neuroscience, psychology, computer science, engineering, mathematics or physics). [(How to apply)](https://www.gw4biomed.ac.uk/doctoral-students/) 
 -->
 
 ## General information
