@@ -6,7 +6,6 @@ permalink: 		/publications/
 # Preprints
 
 * Lopes MA, Hamandi K, Zhang J, Creaser J. **The interaction between neural populations: Additive versus diffusive coupling**. bioRxiv. \[[Main text](https://www.biorxiv.org/content/10.1101/2021.11.29.470398v1)\]
-* Tait L, Zhang J. **MEG cortical microstates: spatiotemporal characteristics, dynamic functional connectivity and stimulus-evoked responses**. bioRxiv. \[[Main text](https://doi.org/10.1101/2021.03.25.436979)\]
 * Tait L, Zhang J **\+microstate: A MATLAB toolbox for brain microstate analysis in sensor and cortical EEG/MEG**. bioRxiv. \[[Main text](https://www.biorxiv.org/content/10.1101/2021.07.13.452193)\] \[[Toolbox](https://plus-microstate.github.io)\]
 * Zajkowski W, Zhang J. **Within and Cross-Domain Effects of Choice-Induced Bias**. bioRxiv. \[[Main text](https://psyarxiv.com/vzqsw/)\]
 * Karahan E, Tait L, Si R, Özkan A, Szul M, Zhang J. **Individual variability in the human connectome maintains selective cross-modal consistency and shares microstructural signatures**. bioRxiv. \[[Main text](https://www.biorxiv.org/content/10.1101/2021.04.01.438129v1/)\]
@@ -14,6 +13,7 @@ permalink: 		/publications/
 
 
 # Journal articles
+* Tait L, Zhang J. (in press) **MEG cortical microstates: spatiotemporal characteristics, dynamic functional connectivity and stimulus-evoked responses**. Neuroimage. \[[Main text](https://www.sciencedirect.com/science/article/pii/S1053811922001355)\] \[[Code](https://github.com/plus-microstate/manuscript_codes)\] 
 * Krzemiński D, Zhang J. (in press) **Imperfect integration: sensory congruency between multiple sources modulates selective decision-making processes**. Attention, Perception, & Psychophysics. \[[Preprint](https://doi.org/10.1101/2021.03.14.435307)\]
 * Si R, Rowe JB, Zhang J (2021). **Functional localization and categorization of intentional decisions in humans: a meta-analysis of brain imaging studies**. Neuroimage, 118468. \[[Article](https://www.sciencedirect.com/science/article/pii/S1053811921007412)\] \[[Data](https://osf.io/bhwj5/)\]
 * Tait L, Lopes MA, Stothart G, Baker J, Kazanina N, Zhang J, Goodfellow M (2021). **A Large-Scale Brain Network Mechanism for Increased Seizure Propensity in Alzheimer's Disease**. Plos Computational Biology. \[[Article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009252)\] 
