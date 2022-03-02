@@ -1,6 +1,6 @@
 ---
 title: Esin Karahan
-position: postdoc
+position: visiting
 avatar: karahan.jpg
 ---
 
