@@ -8,8 +8,8 @@ permalink: 		/join/
 
 <!--<i class="fa fa-pencil-square-o fa-2x" aria-hidden="true" style="color: #F47E3E; font-size: 1.5em; !important"></i> We are looking for a research assistant to start as soon as possible. The RA will be responsible to conduct online behavioural experiments. Deadline March 24 \[[application link](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=30011&siteid=5460&PageType=JobDetails&jobid=1788654)\] -->
 
-<i class="fa fa-pencil-square-o fa-2x" aria-hidden="true" style="color: #F47E3E; font-size: 1.5em; !important"></i> We are looking for two post-doctoral reserach associates. The research fellow will use multimodal brain imaging (7T BOLD-fMRI/MRS/dMRI) to investigate the neurobiological and neurochemical mechanisms of decision-making. Deadline: Jan 14, 2022. [Apply online](https://www.jobs.ac.uk/job/CLV361/research-associates-2-posts)
-
+<!--<i class="fa fa-pencil-square-o fa-2x" aria-hidden="true" style="color: #F47E3E; font-size: 1.5em; !important"></i> We are looking for two post-doctoral reserach associates. The research fellow will use multimodal brain imaging (7T BOLD-fMRI/MRS/dMRI) to investigate the neurobiological and neurochemical mechanisms of decision-making. Deadline: Jan 14, 2022. [Apply online](https://www.jobs.ac.uk/job/CLV361/research-associates-2-posts)
+-->
 
 <i class="fa fa-pencil-square-o fa-2x" aria-hidden="true" style="color: #F47E3E; font-size: 1.5em; !important"></i>PhD studentship on information processing speed. [Project details (Deadline March 11, 2022)](https://www.findaphd.com/phds/project/characterizing-inter-individual-differences-and-longitudinal-changes-in-information-processing-speed/?p139840)
 
