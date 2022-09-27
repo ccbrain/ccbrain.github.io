@@ -4,7 +4,7 @@ title: 			"Join us"
 permalink: 		/join/
 ---
 
-## Current opportunities
+<!-- ## Current opportunities -->
 
 <!--<i class="fa fa-pencil-square-o fa-2x" aria-hidden="true" style="color: #F47E3E; font-size: 1.5em; !important"></i> We are looking for a research assistant to start as soon as possible. The RA will be responsible to conduct online behavioural experiments. Deadline March 24 \[[application link](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=30011&siteid=5460&PageType=JobDetails&jobid=1788654)\] -->
 
@@ -18,7 +18,7 @@ permalink: 		/join/
 
 ## General information
 
-If you are interested in our reserach and would like to join us, please contact [Jiaxiang Zhang](mailto:zhangj73@cardiff.ac.uk) with your CV for further information.
+If you are interested in our reserach and would like to join us, please contact [Jiaxiang Zhang](mailto:jiaxiang.zhang@swansea.ac.uk) with your CV for further information.
 
 <!--### Post-doctoral fellowships
 One 3-year post-doctoral fellowship is available to work on a [ERC](https://erc.europa.eu)-funded project. The research fellow will use multimodal brain imaging (7T BOLD-fMRI/MRS/dMRI) to investigate the neurobiological and neurochemical mechanisms of decision-making.
