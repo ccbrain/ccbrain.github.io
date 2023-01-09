@@ -8,6 +8,7 @@ title: Publications
 
 # Preprints
 
+-   Tomassini A, Cope T, Zhang J, Rowe JB. **Parkinson's disease impairs cortical sensori-motor decision-making cascades**. medRxiv. \[[Main text](https://doi.org/10.1101/2022.10.26.22281571)\]
 -   Lopes MA, Hamandi K, Zhang J, Creaser J. **The interaction between neural populations: Additive versus diffusive coupling**. bioRxiv. \[[Main text](https://www.biorxiv.org/content/10.1101/2021.11.29.470398v1)\]
 -   Zajkowski W, Zhang J. **Within and Cross-Domain Effects of Choice-Induced Bias**. bioRxiv. \[[Main text](https://psyarxiv.com/vzqsw/)\]
 -   Tomassini A, Price D, Zhang J, Rowe JB. **On the evolution of neural decisions from uncertain visual input to uncertain actions**. BioRxiv 803049. \[[Main text](https://doi.org/10.1101/803049)\] \[[Supplementary material](https://www.biorxiv.org/content/10.1101/803049v1.supplementary-material)\]
@@ -59,5 +60,6 @@ title: Publications
 
 # Conference Proceedings
 
+-   Sicurella E, Zhang J (2022). **Deep learning for parameter recovery from a neural mass model of perceptual decision-making**. Conference on Cognitive Computational Neuroscience,  San Francisco, USA.
 -   Song Y, Crowcroft J, Zhang J (2012). **Epileptic EEG Signal Analysis and Identification Based On Nonlinear Features**. IEEE Bioinformatics and Biomedicine, Philadelphia, USA.
 -   Zhang J, Bogacz R (2018). **Superior colliculus and basal ganglia control the saccadic response in motion discrimination tasks**. Advances in Cognitive Neurodynamics ICCN 2007, 475-479.
