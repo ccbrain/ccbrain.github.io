@@ -1,8 +1,9 @@
 ---
 title: Hikaru Tsujimura
-position: postdoc
+position: alumni
+oldposition: postdoc
 avatar: tsujimura.jpg
-year: 2017-2018
+year: 2022-23
 ---
 
 I completed a BA degree in Psychology at St. Louis University, USA, and a MSc degree in Cognitive Neuroscience at University College London, UK and a PhD degree in Psychology at University of Manchester, UK. During my PhD I investigated how periods of overnight sleep affect memories of trained facial images, by collecting sleep-EEG data during post-training sleep and behavioural data on face memory tasks before and after sleep and fMRI data (via standard GLM analysis and Representational Similarity Analysis) during subsequent recognition memory tests. I found a link across a specific sleep stage (i.e. proportion of a time spent in the Slow Wave Sleep in a deep sleep stage), memory benefits on the memory task, and larger activation and more similar neural activity pattern in hippocampus after sleep compared to equivalent amounts of wakefulness or before sleep. I also used polynomial curve fitting to the behavioural memory data and this also supported that the fitting curve showed a more similar pattern after sleep than the other control condition. During my first postdoctoral position after PhD, I investigated whether internal motives on News (motives without external rewards such as foods or monetary rewards) can be modelled into some distinctive latent factors based on Exploratory Factor Analysis. This analysis revealed that the internal motives on News are made up from the three distinct factors that contribute to our internal motives. In brief, my research interests lie on visualising, quantifying or modelling our cognitive functions into cognitive map-like mental representations by using variety of research methods, and my next aims during my second postdoctoral position at the Cognition and Computational Brain Lab is to visualise, quantify or model neural correlates of decision making and related behavioural models by employing fMRI, computational modelling and other analytic techniques.

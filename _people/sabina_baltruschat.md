@@ -1,9 +1,9 @@
 ---
 title: Sabina Baltruschat
-position: postdoc
-oldposition: visiting
+position: alumni
+oldposition: postdoc
 avatar: baltruschat.jpg
-year: 2017-2018
+year: 2021-2023
 ---
 
 During my BSc in Psychology (University Jaime I, Castellón de la Plana, Spain) I started working with neuroimaging techniques and I decided to study a MSc in Behavioural and Cognitive Neuroscience at the University of Granada (Granada, Spain). I completed my PhD and a postdoctoral fellowship in the Research Group Learning, Emotion, Decisions (University of Granada), where my research was focused on risk-taking in traffic environments.
