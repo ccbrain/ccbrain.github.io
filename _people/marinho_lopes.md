@@ -1,9 +1,10 @@
 ---
 title: Marinho Lopes
-position: visiting
-joined: 2019
+oldposition: postdoc
 twitter: ccbrainlab
 avatar: lopes.jpg
+position: alumni
+year: 2019-2021
 ---
 
 # Brief bio

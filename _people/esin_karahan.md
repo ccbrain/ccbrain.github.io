@@ -1,7 +1,9 @@
 ---
 title: Esin Karahan
-position: visiting
+oldposition: postdoc
 avatar: karahan.jpg
+position: alumni
+year: 2017-2021
 ---
 
 # Brief bio

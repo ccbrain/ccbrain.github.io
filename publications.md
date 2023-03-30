@@ -9,13 +9,12 @@ title: Publications
 # Preprints
 
 -   Tomassini A, Cope T, Zhang J, Rowe JB. **Parkinson's disease impairs cortical sensori-motor decision-making cascades**. medRxiv. \[[Main text](https://doi.org/10.1101/2022.10.26.22281571)\]
--   Lopes MA, Hamandi K, Zhang J, Creaser J. **The interaction between neural populations: Additive versus diffusive coupling**. bioRxiv. \[[Main text](https://www.biorxiv.org/content/10.1101/2021.11.29.470398v1)\]
 -   Zajkowski W, Zhang J. **Within and Cross-Domain Effects of Choice-Induced Bias**. bioRxiv. \[[Main text](https://psyarxiv.com/vzqsw/)\]
 -   Tomassini A, Price D, Zhang J, Rowe JB. **On the evolution of neural decisions from uncertain visual input to uncertain actions**. BioRxiv 803049. \[[Main text](https://doi.org/10.1101/803049)\] \[[Supplementary material](https://www.biorxiv.org/content/10.1101/803049v1.supplementary-material)\]
 
 # Journal articles
-
--   Karahan E, Tait L, Si R, Özkan A, Szul MJ, Graham KS, Lawrence AD, Zhang J (2002). **The interindividual variability of multimodal brain connectivity maintains spatial heterogeneity and relates to tissue microstructure**. Communications Biology 5:1007. \[[Article](https://www.nature.com/articles/s42003-022-03974-w/)\] \[[Code & Data](https://doi.org/10.17605/osf.io/rqj8a)\]
+-   Lopes MA, Hamandi K, Zhang J, Creaser J (2023). **The interaction between neural populations: Additive versus diffusive coupling**. Scientific Reports, 13(1), 4115. \[[Article](https://www.nature.com/articles/s41598-023-30172-3)\]
+-   Karahan E, Tait L, Si R, Özkan A, Szul MJ, Graham KS, Lawrence AD, Zhang J (2022). **The interindividual variability of multimodal brain connectivity maintains spatial heterogeneity and relates to tissue microstructure**. Communications Biology 5:1007. \[[Article](https://www.nature.com/articles/s42003-022-03974-w/)\] \[[Code & Data](https://doi.org/10.17605/osf.io/rqj8a)\]
 -   Tait L, Zhang J (2022) **+microstate: A MATLAB toolbox for brain microstate analysis in sensor and cortical EEG/MEG**. Neuroimage, 119346. \[[Article](https://www.sciencedirect.com/science/article/pii/S1053811922004657)\] \[[Toolbox](https://plus-microstate.github.io)\]
 -   Krzemiński D, Zhang J. (2022) **Imperfect integration: sensory congruency between multiple sources modulates selective decision-making processes**. Attention, Perception, & Psychophysics, 84:1566–1582. \[[Article](https://link.springer.com/article/10.3758/s13414-021-02434-7)\] \[[Data](https://figshare.com/articles/dataset/13567916)\] \[[Code](https://github.com/dokato/2drdk)\] \[[Materials](https://github.com/dokato/2drdk)\]
 -   Lopes MA, Bhatia S, Brimble G, Zhang J, Hamandi K (2022) **A computational biomarker of photosensitive epilepsy from interictal EEG**. eNeuro, 9(3). \[[Article](https://www.eneuro.org/content/early/2022/05/31/ENEURO.0486-21.2022)\]
