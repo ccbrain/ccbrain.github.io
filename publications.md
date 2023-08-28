@@ -8,6 +8,7 @@ title: Publications
 
 # Preprints
 
+-   Tsujimura H, Zhang J. **Concurrent motor sequence learning and choice preference formation during repetitive action-and stimulus-selections**. psyArxXiv. \[[Main text](https://psyarxiv.com/nc6tu/)\]
 -   Tomassini A, Cope T, Zhang J, Rowe JB. **Parkinson's disease impairs cortical sensori-motor decision-making cascades**. medRxiv. \[[Main text](https://doi.org/10.1101/2022.10.26.22281571)\]
 -   Zajkowski W, Zhang J. **Within and Cross-Domain Effects of Choice-Induced Bias**. bioRxiv. \[[Main text](https://psyarxiv.com/vzqsw/)\]
 -   Tomassini A, Price D, Zhang J, Rowe JB. **On the evolution of neural decisions from uncertain visual input to uncertain actions**. BioRxiv 803049. \[[Main text](https://doi.org/10.1101/803049)\] \[[Supplementary material](https://www.biorxiv.org/content/10.1101/803049v1.supplementary-material)\]
