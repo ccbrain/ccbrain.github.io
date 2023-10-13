@@ -1,5 +1,5 @@
 ---
-title: Conner Atkins
+title: Connor Atkins
 position: phd
 avatar: atkins.jpg
 ---
