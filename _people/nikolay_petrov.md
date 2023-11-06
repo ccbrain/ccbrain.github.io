@@ -1,7 +1,9 @@
 ---
 title: Nikolay Petrov
-position: ra
+position: alumni
+oldposition: ra
 avatar: petrov.jpg
+year: 2021-2023
 ---
 
 # Brief bio

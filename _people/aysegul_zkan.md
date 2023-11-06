@@ -1,7 +1,9 @@
 ---
 title: Ayşegül Özkan
-position: phd
+position: alumni
+oldposition: phd
 avatar: ozkan.jpg
+year: 2018-2022
 ---
 
 # Brief bio
