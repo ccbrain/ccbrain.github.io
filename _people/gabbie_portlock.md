@@ -1,7 +1,9 @@
 ---
 title: Gabbie Portlock
-position: visitstudent
+oldposition: visitstudent
+position: alumni
 avatar: portlock.jpg
+year: 2019-23
 ---
 
 # Brief bio

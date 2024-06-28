@@ -1,6 +1,8 @@
 ---
 title: Ruoguang Si
-position: phd
+oldposition: phd
+position: alumni
+year: 2019-2023
 avatar: ruoguang.jpg
 ---
 
