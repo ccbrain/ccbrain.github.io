@@ -61,7 +61,8 @@ title: Publications
 -   Bogacz R, Usher M, Zhang J, McClelland JL (2011). **Extending a biologically inspired model of choice: multi-alternatives, nonlinearity and value-based multidimensional choice**. Seth A, Bryson J, and Prescott T Eds. Modeling Natural Action Selection. Cambridge Press.
 
 # Conference Proceedings
-
+-	Morgan ML, Rahat A, Jenkins G, Zhang J. (2024). **Explainable Machine Learning: Predicting Clinical Outcomes in Welsh Emergency Departments.** In International Conference on AI in Healthcare, 290-301. Lecture Notes in Computer Science, Springer.
+-	Aslam S, Chen Q, Zhang J. (2024). **DELRecon: Depth Electrode Reconstruction Toolbox for Stereo-EEG.** In International Conference on AI in Healthcare, 135-148. Lecture Notes in Computer Science, Springer.
 -   Sicurella E, Zhang J (2022). **Deep learning for parameter recovery from a neural mass model of perceptual decision-making**. Conference on Cognitive Computational Neuroscience,  San Francisco, USA.
 -   Song Y, Crowcroft J, Zhang J (2012). **Epileptic EEG Signal Analysis and Identification Based On Nonlinear Features**. IEEE Bioinformatics and Biomedicine, Philadelphia, USA.
 -   Zhang J, Bogacz R (2018). **Superior colliculus and basal ganglia control the saccadic response in motion discrimination tasks**. Advances in Cognitive Neurodynamics ICCN 2007, 475-479.
