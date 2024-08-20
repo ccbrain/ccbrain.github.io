@@ -7,12 +7,12 @@ title: Publications
 ---
 
 # Preprints
--	Bundil I, Baltruschat S, Zhang J. **Characterising and differentiating cognitive and motor speed in older adults: a longitudinal birth cohort study**. medRxiv. \[[Main text](https://www.medrxiv.org/content/10.1101/2024.01.04.24300822v1/)\]
 -   Tsujimura H, Zhang J. **Concurrent motor sequence learning and choice preference formation during repetitive action-and stimulus-selections**. psyArxXiv. \[[Main text](https://psyarxiv.com/nc6tu/)\]
 -   Zajkowski W, Zhang J. **Within and Cross-Domain Effects of Choice-Induced Bias**. bioRxiv. \[[Main text](https://psyarxiv.com/vzqsw/)\]
 -   Tomassini A, Price D, Zhang J, Rowe JB. **On the evolution of neural decisions from uncertain visual input to uncertain actions**. BioRxiv 803049. \[[Main text](https://doi.org/10.1101/803049)\] \[[Supplementary material](https://www.biorxiv.org/content/10.1101/803049v1.supplementary-material)\]
 
 # Journal articles
+-	Bundil I, Baltruschat S, Zhang J. **Characterising and differentiating cognitive and motor speed in older adults: structural equation modelling on a UK longitudinal birth cohort**. BMJ Open, 14:e083968. \[[Article](https://bmjopen.bmj.com/content/14/8/e083968)\]
 -	Ozkan A, Zhang J (2024). **Information sources and congruency modulate preference-based decision-making processes**. Journal of Cognitive Psychology. \[[Article](https://www.tandfonline.com/doi/full/10.1080/20445911.2024.2384666)\]
 -	Tomassini, A, Cope, TE, Zhang, J, Rowe, JB (2024). **Parkinson’s disease impairs cortical sensori-motor decision-making cascades**. Brain Communications, 6(2). \[[Article](https://academic.oup.com/braincomms/article-abstract/6/2/fcae065/7628357)\]
 -	Read, ML, Berry SC, Graham KS, Voets NL, Zhang J, Aggleton JP, Lawrence AD, Hodgetts CJ (2024). **Scene-selectivity in CA1/subicular complex: Multivoxel pattern analysis at 7T**. Neuropsychologia, 108783. \[[Article](https://www.sciencedirect.com/science/article/pii/S0028393223003172?casa_token=6NfANe-NgcsAAAAA:zPhveSW0GAe1HgNIjrjBQdR8SK-fdBt30jPRWazuSKsBLzQHC0UaDafZ3f5OYUB1x8HUcCOBlOA)\]
