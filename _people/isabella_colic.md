@@ -1,6 +1,8 @@
 ---
 title: Isabella Colic
-position: phd
+oldposition: phd
+position: alumni
+year: 2020-2024
 avatar: colic.jpg
 ---
 
