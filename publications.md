@@ -7,6 +7,7 @@ title: Publications
 ---
 
 # Preprints
+-	Bundil I, Zhang, J. (2026). **Expectation and temporal dynamics modulate choice behavior independently.** \[[Main text](https://osf.io/preprints/psyarxiv/nw5eu_v1/)\]
 -   Tsujimura H, Zhang J. **Concurrent motor sequence learning and choice preference formation during repetitive action-and stimulus-selections**. psyArxXiv. \[[Main text](https://psyarxiv.com/nc6tu/)\]
 -   Zajkowski W, Zhang J. **Within and Cross-Domain Effects of Choice-Induced Bias**. bioRxiv. \[[Main text](https://psyarxiv.com/vzqsw/)\]
 -   Tomassini A, Price D, Zhang J, Rowe JB. **On the evolution of neural decisions from uncertain visual input to uncertain actions**. BioRxiv 803049. \[[Main text](https://doi.org/10.1101/803049)\] \[[Supplementary material](https://www.biorxiv.org/content/10.1101/803049v1.supplementary-material)\]
@@ -62,8 +63,12 @@ title: Publications
 -   Bogacz R, Usher M, Zhang J, McClelland JL (2011). **Extending a biologically inspired model of choice: multi-alternatives, nonlinearity and value-based multidimensional choice**. Seth A, Bryson J, and Prescott T Eds. Modeling Natural Action Selection. Cambridge Press.
 
 # Conference Proceedings
--	Morgan ML, Rahat A, Jenkins G, Zhang J. (2024). **Explainable Machine Learning: Predicting Clinical Outcomes in Welsh Emergency Departments.** In International Conference on AI in Healthcare, 290-301. Lecture Notes in Computer Science, Springer.
--	Aslam S, Chen Q, Zhang J. (2024). **DELRecon: Depth Electrode Reconstruction Toolbox for Stereo-EEG.** In International Conference on AI in Healthcare, 135-148. Lecture Notes in Computer Science, Springer.
+-	Aljuhani L, Liu W, Zhang J (2026). **Benchmarking Deep Learning and Conventional Methods for 2D and 3D Lung Tumour Segmentation in CT Images.** In International Conference on AI in Healthcare, 143–155. Lecture Notes in Computer Science, Springer. \[[Article](https://link.springer.com/chapter/10.1007/978-3-032-35393-1_11)\]
+-	Morgan ML, Rahat A, Jenkins G, Zhang J (2026). **Peak-Aware Two-Stage LSTM Forecasting of Patient Arrivals in Welsh Emergency Departments.** In International Conference on AI in Healthcare, 369-382. Lecture Notes in Computer Science, Springer. \[[Article](https://link.springer.com/chapter/10.1007/978-3-032-35387-0_27)\]
+-	Atkins C, Tam GK, Edwards M, Aslam M, Zhang J (2025). **Multi-scale WSI Analysis: A Cascade Framework for Efficient Breast Cancer Metastasis Detection.** In Annual Conference on Medical Image Understanding and Analysis, 87-101. Springer. \[[Article](https://link.springer.com/chapter/10.1007/978-3-031-98691-8_7)\]
+-	Balabanis V, Zhang J, Xie X, Yang S. (2025). Categorizing Acquisition Intervals from Whole-Brain MEG Functional Connectivity. In International Conference on AI in Healthcare, 406-416. Lecture Notes in Computer Science, Springer. \[[Article](https://link.springer.com/chapter/10.1007/978-3-032-00656-1_30)\]
+-	Morgan ML, Rahat A, Jenkins G, Zhang J. (2024). **Explainable Machine Learning: Predicting Clinical Outcomes in Welsh Emergency Departments.** In International Conference on AI in Healthcare, 290-301. Lecture Notes in Computer Science, Springer. \[[Article](https://link.springer.com/chapter/10.1007/978-3-031-67285-9_21)\]
+-	Aslam S, Chen Q, Zhang J. (2024). **DELRecon: Depth Electrode Reconstruction Toolbox for Stereo-EEG.** In International Conference on AI in Healthcare, 135-148. Lecture Notes in Computer Science, Springer. \[[Article](https://link.springer.com/chapter/10.1007/978-3-031-67285-9_10)\]
 -   Sicurella E, Zhang J (2022). **Deep learning for parameter recovery from a neural mass model of perceptual decision-making**. Conference on Cognitive Computational Neuroscience,  San Francisco, USA.
 -   Song Y, Crowcroft J, Zhang J (2012). **Epileptic EEG Signal Analysis and Identification Based On Nonlinear Features**. IEEE Bioinformatics and Biomedicine, Philadelphia, USA.
 -   Zhang J, Bogacz R (2018). **Superior colliculus and basal ganglia control the saccadic response in motion discrimination tasks**. Advances in Cognitive Neurodynamics ICCN 2007, 475-479.
